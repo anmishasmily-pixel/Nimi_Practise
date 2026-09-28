@@ -2,4 +2,6 @@ create table nims (
     num int
 );
 
-new changes
+create table nim (
+    num int
+);
